@@ -1,13 +1,15 @@
-/t      https://twitter.com/askharleyio
-/l      https://www.linkedin.com/in/harley-ferguson-433243116/
 /g      https://github.com/askharley
 /gr     https://github.com/askharley?tab=repositories
 /gpz    https://github.com/askharley/project-zues
-/b      https://askharley-blog.netlify.app/
+
+/t      https://twitter.com/askharleyio
+/l      https://www.linkedin.com/in/harley-ferguson-433243116/
+
 /p      https://www.npmjs.com/~askharley
 /dt     https://dev.to/askharley
 /hs     https://www.haefelesoftware.com/
 
+/b      https://askharley-blog.netlify.app/
 /es6          https://askharley-blog.netlify.app/a-reintroduction-to-ecmascript-6
 /impdec       https://askharley-blog.netlify.app/imperative-vs-declarative-programming
 /const        https://askharley-blog.netlify.app/javascripts-const-keyword
